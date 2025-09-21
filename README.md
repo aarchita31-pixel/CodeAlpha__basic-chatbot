@@ -23,9 +23,15 @@ Loops (while)
 User Input and Output (input() / print())
 -------
 Example
+<br>
 You: hello
+<br>
 Chatbot: Hi!
+<br>
 You: how are you
+<br>
 Chatbot: I'm fine, thanks!
+<br>
 You: bye
+<br>
 Chatbot: Goodbye!
