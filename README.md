@@ -3,7 +3,7 @@ A basic Python chatbot that responds to a few predefined user inputs. Perfect fo
 -----
 Features
 
-R+esponds to greetings like "hello".
+Responds to greetings like "hello".
 
 Replies to "how are you" with a friendly response.
 
